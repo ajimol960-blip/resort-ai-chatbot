@@ -42,11 +42,4 @@ Once the application is running, interact with the chatbot to:
 	* Get menu recommendations
 	* Receive answers to frequently asked questions
 
-Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request to improve this project.
 
-License
-This project is open source and available for personal and educational use.
-
-Contact
-For questions or feedback, please open an issue in this repository.
